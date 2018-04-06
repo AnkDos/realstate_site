@@ -54,3 +54,16 @@
     font-family: cursive;
     
 }
+
+.about_text{
+
+    padding: 60px;
+    color: #6f7172;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+}
+
+.logo{
+    padding: 30px;
+}
