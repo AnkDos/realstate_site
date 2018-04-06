@@ -89,7 +89,7 @@ margin-bottom: 0px;
 #footer{
     height: 30em;
     background-color:#878787;
-    
+    color:#edeeef;
     
 }
 
@@ -124,7 +124,11 @@ margin-bottom: 0px;
   }
 
 
-
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
 
 
 #lab_social_icon_footer {
