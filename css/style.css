@@ -1,7 +1,7 @@
 
 
 .home{
-    height: 88vh;
+    height: 100vh;
     background-image: url("http://exustar.com/images/dynamicslideshow/slides/image5.jpg");
     background-size: cover;
     margin-top: 0px;
@@ -15,10 +15,9 @@
     color:#f9fbff;
 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 120px;
-    align-items: center;
-    padding: 100px;
-    margin-bottom: 0px;
+        
+    padding: 120px;
+    
 }
 
 .navbar{
@@ -27,9 +26,9 @@
 
 #ctag{
     font-family: cursive;
-    font-size: 30px;
+    
     color:#f9fbff;
-    padding-top: 0px;
+    
     
 }
 
@@ -37,5 +36,21 @@
     color:#f9fbff;
     font-family: cursive;
     font-size: 20px;
+    
+}
+
+#about{
+ height: 100vh;
+ margin-top: 0px;
+ margin-left:10px;
+ margin-right:10px;
+ background-color:#edeeef;
+
+}
+
+
+#heading_about{
+    color:#45525e;
+    font-family: cursive;
     
 }
